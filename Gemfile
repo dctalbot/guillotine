@@ -33,7 +33,7 @@ gem 'jquery-ui-rails'
 
 gem 'jbuilder'
 
-gem 'best_in_place'
+gem 'best_in_place', git: 'https://github.com/bernat/best_in_place'
 
 gem 'devise'
 

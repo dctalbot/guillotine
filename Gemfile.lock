@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/bernat/best_in_place
-  revision: 332eda290cb133683a99d43a30321bab27d85e70
+  revision: 1b779e60ea912ab9c39d5c999b00c8ac44a8e535
   specs:
-    best_in_place (3.1.0)
+    best_in_place (3.1.1)
       actionpack (>= 3.2)
       railties (>= 3.2)
 
@@ -192,4 +192,4 @@ DEPENDENCIES
   uglifier (>= 1.0.3)
 
 BUNDLED WITH
-   1.12.5
+   1.14.6
